@@ -71,4 +71,4 @@ python agent_enhanced.py
 - 若要調整資料位置，可在 `agent_enhanced.py` 修改 `MEMORY_PATH`。
 
 ---
-有需要我把 `.env.example`、或將 system prompt 更易讀的版本整理進 `README` 嗎？
+
